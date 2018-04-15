@@ -1,0 +1,14 @@
+{
+  "name": "hexagonz",
+  "version": "1.0.0",
+  "description": "HexagonZ",
+  "main": "index.html",
+  "scripts": {
+    "test": "eslint www/*.js"
+  },
+  "author": "patwork@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
